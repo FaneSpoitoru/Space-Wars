@@ -24,8 +24,8 @@ Space Wars is a fast-paced 2D space shooter where you must defeat waves of enemy
 
 ## 🧪 Try it out
 
-- [Download on Itch.io](https://fanespoitoru.itch.io/space-wars)
-- Download the ZIP file
+- [Download the zip on Itch.io](https://fanespoitoru.itch.io/space-wars)
+
 
 ---
 
